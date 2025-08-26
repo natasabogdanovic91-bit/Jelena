@@ -1,0 +1,72 @@
+2025-06-17 10:34:19,743 : INFO : Deo 1 - extract
+2025-06-17 10:34:19,744 : INFO : Korak 1 - Ekstrakcija podataka sa API-ja
+2025-06-17 10:34:20,852 : INFO : Status Code: 200
+2025-06-17 10:34:20,879 : INFO : Deo 2 - transform
+2025-06-17 10:34:20,879 : INFO : Korak 2 - Transformacija podataka
+2025-06-17 10:34:20,890 : INFO : Deo 3 - load
+2025-06-17 10:34:20,890 : INFO : Korak 3 - Ucitavanje podataka u bazu
+2025-06-17 10:34:20,932 : INFO : ETL proces je uspesno zavrsen
+2025-06-17 10:34:20,932 : INFO : Counter inside function: 4
+2025-06-17 10:34:20,932 : INFO : Counter inside function: 5
+2025-06-17 10:34:20,932 : INFO : Counter inside function: 6
+2025-06-17 10:34:20,933 : INFO : Counter inside function: 7
+2025-06-17 10:34:20,933 : INFO : Counter inside function: 8
+2025-06-17 10:34:20,933 : INFO : Counter inside function: 9
+2025-06-17 10:34:20,933 : INFO : Counter inside function: 10
+2025-06-17 10:34:20,933 : INFO : Counter inside function: 11
+2025-06-17 10:34:20,933 : INFO : Counter inside function: 12
+2025-06-17 10:34:20,933 : INFO : Counter inside function: 13
+2025-06-17 10:36:43,671 : INFO : Deo 1 - extract
+2025-06-17 10:36:43,673 : INFO : Korak 1 - Ekstrakcija podataka sa API-ja
+2025-06-17 10:36:44,773 : INFO : Status Code: 200
+2025-06-17 10:36:44,795 : INFO : Deo 2 - transform
+2025-06-17 10:36:44,796 : INFO : Korak 2 - Transformacija podataka
+2025-06-17 10:36:44,809 : INFO : Deo 3 - load
+2025-06-17 10:36:44,809 : INFO : Korak 3 - Ucitavanje podataka u bazu
+2025-06-17 10:36:44,857 : INFO : ETL proces je uspesno zavrsen
+2025-06-17 10:36:44,857 : INFO : Counter inside function: 4
+2025-06-17 10:36:44,857 : INFO : Counter inside function: 5
+2025-06-17 10:36:44,858 : INFO : Counter inside function: 6
+2025-06-17 10:36:44,858 : INFO : Counter inside function: 7
+2025-06-17 10:36:44,859 : INFO : Counter inside function: 8
+2025-06-17 10:36:44,859 : INFO : Counter inside function: 9
+2025-06-17 10:36:44,861 : INFO : Counter inside function: 10
+2025-06-17 10:36:44,861 : INFO : Counter inside function: 11
+2025-06-17 10:36:44,861 : INFO : Counter inside function: 12
+2025-06-17 10:36:44,862 : INFO : Counter inside function: 13
+2025-06-17 10:37:19,450 : INFO : Deo 1 - extract
+2025-06-17 10:37:19,450 : INFO : Korak 1 - Ekstrakcija podataka sa API-ja
+2025-06-17 10:37:20,592 : INFO : Status Code: 200
+2025-06-17 10:37:20,619 : INFO : Deo 2 - transform
+2025-06-17 10:37:20,620 : INFO : Korak 2 - Transformacija podataka
+2025-06-17 10:37:20,635 : INFO : Deo 3 - load
+2025-06-17 10:37:20,635 : INFO : Korak 3 - Ucitavanje podataka u bazu
+2025-06-17 10:37:20,684 : INFO : ETL proces je uspesno zavrsen
+2025-06-17 10:37:20,684 : INFO : Counter inside function: 4
+2025-06-17 10:37:20,684 : INFO : Counter inside function: 5
+2025-06-17 10:37:20,685 : INFO : Counter inside function: 6
+2025-06-17 10:37:20,685 : INFO : Counter inside function: 7
+2025-06-17 10:37:20,685 : INFO : Counter inside function: 8
+2025-06-17 10:37:20,686 : INFO : Counter inside function: 9
+2025-06-17 10:37:20,686 : INFO : Counter inside function: 10
+2025-06-17 10:37:20,687 : INFO : Counter inside function: 11
+2025-06-17 10:37:20,687 : INFO : Counter inside function: 12
+2025-06-17 10:37:20,688 : INFO : Counter inside function: 13
+2025-06-17 10:40:45,149 : INFO : Deo 1 - extract
+2025-06-17 10:40:45,150 : INFO : Korak 0 - Ekstrakcija podataka sa API-ja
+2025-06-17 10:40:46,260 : INFO : Status Code: 200
+2025-06-17 10:40:46,286 : INFO : Deo 2 - transform
+2025-06-17 10:40:46,287 : INFO : Korak 1 - Transformacija podataka
+2025-06-17 10:40:46,304 : INFO : Deo 3 - load
+2025-06-17 10:40:46,304 : INFO : Korak 2 - Ucitavanje podataka u bazu
+2025-06-17 10:40:46,346 : INFO : ETL proces je uspesno zavrsen
+2025-06-17 10:40:46,347 : INFO : Counter inside function: 3
+2025-06-17 10:40:46,348 : INFO : Counter inside function: 4
+2025-06-17 10:40:46,348 : INFO : Counter inside function: 5
+2025-06-17 10:40:46,348 : INFO : Counter inside function: 6
+2025-06-17 10:40:46,350 : INFO : Counter inside function: 7
+2025-06-17 10:40:46,350 : INFO : Counter inside function: 8
+2025-06-17 10:40:46,351 : INFO : Counter inside function: 9
+2025-06-17 10:40:46,351 : INFO : Counter inside function: 10
+2025-06-17 10:40:46,352 : INFO : Counter inside function: 11
+2025-06-17 10:40:46,352 : INFO : Counter inside function: 12

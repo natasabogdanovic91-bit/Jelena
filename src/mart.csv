@@ -1,0 +1,451 @@
+datum,region,proizvod,kolicina,cena
+2024-03-01,Beograd,Hleb,86,3.72
+2024-03-01,Beograd,Mleko,88,1.86
+2024-03-01,Beograd,Sir,52,3.29
+2024-03-01,Beograd,Jaja,91,1.2
+2024-03-01,Beograd,Jogurt,72,1.04
+2024-03-01,Novi Sad,Hleb,36,4.45
+2024-03-01,Novi Sad,Mleko,48,2.32
+2024-03-01,Novi Sad,Sir,99,1.16
+2024-03-01,Novi Sad,Jaja,16,4.19
+2024-03-01,Novi Sad,Jogurt,76,3.33
+2024-03-01,Niš,Hleb,80,1.25
+2024-03-01,Niš,Mleko,96,1.33
+2024-03-01,Niš,Sir,95,2.0
+2024-03-01,Niš,Jaja,36,2.89
+2024-03-01,Niš,Jogurt,13,2.71
+2024-03-02,Beograd,Hleb,57,2.39
+2024-03-02,Beograd,Mleko,12,2.03
+2024-03-02,Beograd,Sir,37,1.04
+2024-03-02,Beograd,Jaja,40,1.58
+2024-03-02,Beograd,Jogurt,95,1.34
+2024-03-02,Novi Sad,Hleb,30,1.19
+2024-03-02,Novi Sad,Mleko,96,2.78
+2024-03-02,Novi Sad,Sir,98,3.46
+2024-03-02,Novi Sad,Jaja,29,3.64
+2024-03-02,Novi Sad,Jogurt,16,2.64
+2024-03-02,Niš,Hleb,22,3.09
+2024-03-02,Niš,Mleko,25,1.5
+2024-03-02,Niš,Sir,15,2.81
+2024-03-02,Niš,Jaja,14,1.75
+2024-03-02,Niš,Jogurt,41,2.41
+2024-03-03,Beograd,Hleb,39,1.11
+2024-03-03,Beograd,Mleko,69,2.0
+2024-03-03,Beograd,Sir,37,2.96
+2024-03-03,Beograd,Jaja,29,3.9
+2024-03-03,Beograd,Jogurt,91,4.24
+2024-03-03,Novi Sad,Hleb,52,3.45
+2024-03-03,Novi Sad,Mleko,84,4.5
+2024-03-03,Novi Sad,Sir,54,3.02
+2024-03-03,Novi Sad,Jaja,93,1.8
+2024-03-03,Novi Sad,Jogurt,63,3.5
+2024-03-03,Niš,Hleb,15,1.37
+2024-03-03,Niš,Mleko,87,1.24
+2024-03-03,Niš,Sir,93,1.05
+2024-03-03,Niš,Jaja,53,4.4
+2024-03-03,Niš,Jogurt,35,1.47
+2024-03-04,Beograd,Hleb,23,2.12
+2024-03-04,Beograd,Mleko,45,4.11
+2024-03-04,Beograd,Sir,95,1.51
+2024-03-04,Beograd,Jaja,69,1.25
+2024-03-04,Beograd,Jogurt,19,2.33
+2024-03-04,Novi Sad,Hleb,30,2.07
+2024-03-04,Novi Sad,Mleko,42,2.2
+2024-03-04,Novi Sad,Sir,99,1.07
+2024-03-04,Novi Sad,Jaja,74,2.56
+2024-03-04,Novi Sad,Jogurt,99,3.85
+2024-03-04,Niš,Hleb,18,3.5
+2024-03-04,Niš,Mleko,54,4.18
+2024-03-04,Niš,Sir,32,2.11
+2024-03-04,Niš,Jaja,81,1.42
+2024-03-04,Niš,Jogurt,69,4.21
+2024-03-05,Beograd,Hleb,89,3.26
+2024-03-05,Beograd,Mleko,16,4.08
+2024-03-05,Beograd,Sir,18,2.31
+2024-03-05,Beograd,Jaja,56,3.35
+2024-03-05,Beograd,Jogurt,19,1.03
+2024-03-05,Novi Sad,Hleb,57,4.15
+2024-03-05,Novi Sad,Mleko,96,1.29
+2024-03-05,Novi Sad,Sir,80,2.51
+2024-03-05,Novi Sad,Jaja,62,2.27
+2024-03-05,Novi Sad,Jogurt,29,1.15
+2024-03-05,Niš,Hleb,78,1.59
+2024-03-05,Niš,Mleko,78,3.04
+2024-03-05,Niš,Sir,11,1.26
+2024-03-05,Niš,Jaja,30,3.15
+2024-03-05,Niš,Jogurt,91,4.33
+2024-03-06,Beograd,Hleb,21,2.91
+2024-03-06,Beograd,Mleko,47,1.63
+2024-03-06,Beograd,Sir,87,3.13
+2024-03-06,Beograd,Jaja,76,1.56
+2024-03-06,Beograd,Jogurt,40,4.35
+2024-03-06,Novi Sad,Hleb,57,1.27
+2024-03-06,Novi Sad,Mleko,90,3.18
+2024-03-06,Novi Sad,Sir,84,1.85
+2024-03-06,Novi Sad,Jaja,38,3.52
+2024-03-06,Novi Sad,Jogurt,90,1.76
+2024-03-06,Niš,Hleb,22,3.14
+2024-03-06,Niš,Mleko,73,3.35
+2024-03-06,Niš,Sir,62,2.27
+2024-03-06,Niš,Jaja,86,4.12
+2024-03-06,Niš,Jogurt,37,1.6
+2024-03-07,Beograd,Hleb,66,4.32
+2024-03-07,Beograd,Mleko,96,4.37
+2024-03-07,Beograd,Sir,61,2.27
+2024-03-07,Beograd,Jaja,44,1.79
+2024-03-07,Beograd,Jogurt,42,2.54
+2024-03-07,Novi Sad,Hleb,82,3.35
+2024-03-07,Novi Sad,Mleko,18,1.12
+2024-03-07,Novi Sad,Sir,76,1.24
+2024-03-07,Novi Sad,Jaja,45,2.21
+2024-03-07,Novi Sad,Jogurt,53,1.56
+2024-03-07,Niš,Hleb,69,1.38
+2024-03-07,Niš,Mleko,96,2.46
+2024-03-07,Niš,Sir,99,2.65
+2024-03-07,Niš,Jaja,49,1.34
+2024-03-07,Niš,Jogurt,74,4.31
+2024-03-08,Beograd,Hleb,27,2.08
+2024-03-08,Beograd,Mleko,75,1.87
+2024-03-08,Beograd,Sir,51,1.96
+2024-03-08,Beograd,Jaja,14,3.75
+2024-03-08,Beograd,Jogurt,67,3.91
+2024-03-08,Novi Sad,Hleb,17,3.04
+2024-03-08,Novi Sad,Mleko,21,2.87
+2024-03-08,Novi Sad,Sir,71,3.48
+2024-03-08,Novi Sad,Jaja,99,3.17
+2024-03-08,Novi Sad,Jogurt,99,3.95
+2024-03-08,Niš,Hleb,74,3.89
+2024-03-08,Niš,Mleko,10,1.36
+2024-03-08,Niš,Sir,11,1.72
+2024-03-08,Niš,Jaja,53,2.33
+2024-03-08,Niš,Jogurt,31,3.5
+2024-03-09,Beograd,Hleb,56,3.6
+2024-03-09,Beograd,Mleko,19,1.55
+2024-03-09,Beograd,Sir,71,1.96
+2024-03-09,Beograd,Jaja,15,2.18
+2024-03-09,Beograd,Jogurt,52,1.47
+2024-03-09,Novi Sad,Hleb,27,2.47
+2024-03-09,Novi Sad,Mleko,69,1.63
+2024-03-09,Novi Sad,Sir,77,2.24
+2024-03-09,Novi Sad,Jaja,49,3.31
+2024-03-09,Novi Sad,Jogurt,75,1.45
+2024-03-09,Niš,Hleb,27,2.39
+2024-03-09,Niš,Mleko,96,2.31
+2024-03-09,Niš,Sir,30,2.2
+2024-03-09,Niš,Jaja,22,4.18
+2024-03-09,Niš,Jogurt,77,3.7
+2024-03-10,Beograd,Hleb,43,2.72
+2024-03-10,Beograd,Mleko,50,3.71
+2024-03-10,Beograd,Sir,59,1.08
+2024-03-10,Beograd,Jaja,61,1.72
+2024-03-10,Beograd,Jogurt,17,3.45
+2024-03-10,Novi Sad,Hleb,97,2.41
+2024-03-10,Novi Sad,Mleko,36,4.44
+2024-03-10,Novi Sad,Sir,90,3.47
+2024-03-10,Novi Sad,Jaja,71,4.29
+2024-03-10,Novi Sad,Jogurt,33,1.67
+2024-03-10,Niš,Hleb,30,1.98
+2024-03-10,Niš,Mleko,57,4.21
+2024-03-10,Niš,Sir,12,2.97
+2024-03-10,Niš,Jaja,28,3.08
+2024-03-10,Niš,Jogurt,95,1.82
+2024-03-11,Beograd,Hleb,77,2.35
+2024-03-11,Beograd,Mleko,28,3.95
+2024-03-11,Beograd,Sir,75,1.37
+2024-03-11,Beograd,Jaja,84,4.2
+2024-03-11,Beograd,Jogurt,83,1.7
+2024-03-11,Novi Sad,Hleb,12,4.21
+2024-03-11,Novi Sad,Mleko,51,2.53
+2024-03-11,Novi Sad,Sir,59,3.77
+2024-03-11,Novi Sad,Jaja,97,2.75
+2024-03-11,Novi Sad,Jogurt,83,1.33
+2024-03-11,Niš,Hleb,32,2.32
+2024-03-11,Niš,Mleko,30,2.46
+2024-03-11,Niš,Sir,44,2.86
+2024-03-11,Niš,Jaja,16,2.11
+2024-03-11,Niš,Jogurt,46,2.01
+2024-03-12,Beograd,Hleb,17,4.34
+2024-03-12,Beograd,Mleko,57,1.79
+2024-03-12,Beograd,Sir,33,2.97
+2024-03-12,Beograd,Jaja,62,1.68
+2024-03-12,Beograd,Jogurt,76,3.86
+2024-03-12,Novi Sad,Hleb,30,2.4
+2024-03-12,Novi Sad,Mleko,45,1.92
+2024-03-12,Novi Sad,Sir,97,2.07
+2024-03-12,Novi Sad,Jaja,87,1.2
+2024-03-12,Novi Sad,Jogurt,53,1.77
+2024-03-12,Niš,Hleb,69,2.37
+2024-03-12,Niš,Mleko,92,2.59
+2024-03-12,Niš,Sir,92,2.36
+2024-03-12,Niš,Jaja,35,2.48
+2024-03-12,Niš,Jogurt,11,4.32
+2024-03-13,Beograd,Hleb,39,3.06
+2024-03-13,Beograd,Mleko,29,2.15
+2024-03-13,Beograd,Sir,32,3.53
+2024-03-13,Beograd,Jaja,13,2.1
+2024-03-13,Beograd,Jogurt,29,1.07
+2024-03-13,Novi Sad,Hleb,12,2.58
+2024-03-13,Novi Sad,Mleko,91,2.44
+2024-03-13,Novi Sad,Sir,56,2.34
+2024-03-13,Novi Sad,Jaja,99,1.96
+2024-03-13,Novi Sad,Jogurt,44,2.54
+2024-03-13,Niš,Hleb,22,2.12
+2024-03-13,Niš,Mleko,87,2.49
+2024-03-13,Niš,Sir,12,4.15
+2024-03-13,Niš,Jaja,77,3.6
+2024-03-13,Niš,Jogurt,10,3.83
+2024-03-14,Beograd,Hleb,42,1.7
+2024-03-14,Beograd,Mleko,61,3.35
+2024-03-14,Beograd,Sir,36,2.21
+2024-03-14,Beograd,Jaja,95,4.38
+2024-03-14,Beograd,Jogurt,85,2.58
+2024-03-14,Novi Sad,Hleb,19,2.75
+2024-03-14,Novi Sad,Mleko,27,1.76
+2024-03-14,Novi Sad,Sir,26,1.9
+2024-03-14,Novi Sad,Jaja,67,2.68
+2024-03-14,Novi Sad,Jogurt,15,1.75
+2024-03-14,Niš,Hleb,45,1.26
+2024-03-14,Niš,Mleko,34,3.51
+2024-03-14,Niš,Sir,23,1.46
+2024-03-14,Niš,Jaja,83,3.5
+2024-03-14,Niš,Jogurt,14,1.91
+2024-03-15,Beograd,Hleb,78,4.38
+2024-03-15,Beograd,Mleko,97,2.94
+2024-03-15,Beograd,Sir,35,1.65
+2024-03-15,Beograd,Jaja,69,2.6
+2024-03-15,Beograd,Jogurt,84,3.62
+2024-03-15,Novi Sad,Hleb,73,3.74
+2024-03-15,Novi Sad,Mleko,15,2.5
+2024-03-15,Novi Sad,Sir,89,3.4
+2024-03-15,Novi Sad,Jaja,82,2.09
+2024-03-15,Novi Sad,Jogurt,81,2.49
+2024-03-15,Niš,Hleb,85,3.98
+2024-03-15,Niš,Mleko,98,3.91
+2024-03-15,Niš,Sir,72,3.41
+2024-03-15,Niš,Jaja,63,3.35
+2024-03-15,Niš,Jogurt,86,4.26
+2024-03-16,Beograd,Hleb,85,2.21
+2024-03-16,Beograd,Mleko,13,2.2
+2024-03-16,Beograd,Sir,53,3.01
+2024-03-16,Beograd,Jaja,85,1.87
+2024-03-16,Beograd,Jogurt,71,4.47
+2024-03-16,Novi Sad,Hleb,25,3.24
+2024-03-16,Novi Sad,Mleko,62,4.24
+2024-03-16,Novi Sad,Sir,18,4.4
+2024-03-16,Novi Sad,Jaja,50,3.56
+2024-03-16,Novi Sad,Jogurt,84,1.75
+2024-03-16,Niš,Hleb,64,1.16
+2024-03-16,Niš,Mleko,62,4.45
+2024-03-16,Niš,Sir,81,3.68
+2024-03-16,Niš,Jaja,43,1.61
+2024-03-16,Niš,Jogurt,28,2.87
+2024-03-17,Beograd,Hleb,91,2.88
+2024-03-17,Beograd,Mleko,90,4.17
+2024-03-17,Beograd,Sir,18,3.43
+2024-03-17,Beograd,Jaja,59,3.69
+2024-03-17,Beograd,Jogurt,45,3.26
+2024-03-17,Novi Sad,Hleb,81,2.76
+2024-03-17,Novi Sad,Mleko,26,1.28
+2024-03-17,Novi Sad,Sir,93,2.81
+2024-03-17,Novi Sad,Jaja,75,1.13
+2024-03-17,Novi Sad,Jogurt,18,2.8
+2024-03-17,Niš,Hleb,47,4.04
+2024-03-17,Niš,Mleko,14,2.45
+2024-03-17,Niš,Sir,45,1.83
+2024-03-17,Niš,Jaja,82,1.7
+2024-03-17,Niš,Jogurt,13,2.63
+2024-03-18,Beograd,Hleb,98,2.96
+2024-03-18,Beograd,Mleko,83,2.07
+2024-03-18,Beograd,Sir,16,3.19
+2024-03-18,Beograd,Jaja,77,1.06
+2024-03-18,Beograd,Jogurt,66,1.4
+2024-03-18,Novi Sad,Hleb,23,1.11
+2024-03-18,Novi Sad,Mleko,36,2.03
+2024-03-18,Novi Sad,Sir,46,3.44
+2024-03-18,Novi Sad,Jaja,85,1.08
+2024-03-18,Novi Sad,Jogurt,99,2.28
+2024-03-18,Niš,Hleb,88,3.23
+2024-03-18,Niš,Mleko,83,4.02
+2024-03-18,Niš,Sir,25,4.48
+2024-03-18,Niš,Jaja,38,3.77
+2024-03-18,Niš,Jogurt,27,3.01
+2024-03-19,Beograd,Hleb,25,2.28
+2024-03-19,Beograd,Mleko,11,2.43
+2024-03-19,Beograd,Sir,37,1.57
+2024-03-19,Beograd,Jaja,31,1.42
+2024-03-19,Beograd,Jogurt,22,4.12
+2024-03-19,Novi Sad,Hleb,95,1.41
+2024-03-19,Novi Sad,Mleko,89,4.01
+2024-03-19,Novi Sad,Sir,67,2.43
+2024-03-19,Novi Sad,Jaja,72,1.4
+2024-03-19,Novi Sad,Jogurt,74,3.85
+2024-03-19,Niš,Hleb,64,3.07
+2024-03-19,Niš,Mleko,80,4.16
+2024-03-19,Niš,Sir,35,1.2
+2024-03-19,Niš,Jaja,80,3.93
+2024-03-19,Niš,Jogurt,88,2.68
+2024-03-20,Beograd,Hleb,23,2.69
+2024-03-20,Beograd,Mleko,79,2.4
+2024-03-20,Beograd,Sir,42,2.96
+2024-03-20,Beograd,Jaja,15,3.82
+2024-03-20,Beograd,Jogurt,46,2.5
+2024-03-20,Novi Sad,Hleb,17,1.12
+2024-03-20,Novi Sad,Mleko,22,1.61
+2024-03-20,Novi Sad,Sir,67,2.81
+2024-03-20,Novi Sad,Jaja,92,3.03
+2024-03-20,Novi Sad,Jogurt,95,3.1
+2024-03-20,Niš,Hleb,86,2.74
+2024-03-20,Niš,Mleko,67,3.72
+2024-03-20,Niš,Sir,97,2.94
+2024-03-20,Niš,Jaja,90,3.88
+2024-03-20,Niš,Jogurt,95,4.28
+2024-03-21,Beograd,Hleb,49,3.5
+2024-03-21,Beograd,Mleko,22,4.12
+2024-03-21,Beograd,Sir,48,1.64
+2024-03-21,Beograd,Jaja,96,1.75
+2024-03-21,Beograd,Jogurt,21,1.29
+2024-03-21,Novi Sad,Hleb,27,3.81
+2024-03-21,Novi Sad,Mleko,91,3.55
+2024-03-21,Novi Sad,Sir,25,4.39
+2024-03-21,Novi Sad,Jaja,18,1.77
+2024-03-21,Novi Sad,Jogurt,86,3.6
+2024-03-21,Niš,Hleb,18,2.31
+2024-03-21,Niš,Mleko,60,2.44
+2024-03-21,Niš,Sir,66,2.2
+2024-03-21,Niš,Jaja,76,3.96
+2024-03-21,Niš,Jogurt,63,3.21
+2024-03-22,Beograd,Hleb,71,1.11
+2024-03-22,Beograd,Mleko,65,1.06
+2024-03-22,Beograd,Sir,89,1.34
+2024-03-22,Beograd,Jaja,92,2.65
+2024-03-22,Beograd,Jogurt,67,4.28
+2024-03-22,Novi Sad,Hleb,31,4.32
+2024-03-22,Novi Sad,Mleko,24,2.52
+2024-03-22,Novi Sad,Sir,41,2.9
+2024-03-22,Novi Sad,Jaja,49,2.83
+2024-03-22,Novi Sad,Jogurt,66,2.86
+2024-03-22,Niš,Hleb,25,2.56
+2024-03-22,Niš,Mleko,10,3.92
+2024-03-22,Niš,Sir,40,2.09
+2024-03-22,Niš,Jaja,42,1.36
+2024-03-22,Niš,Jogurt,91,1.01
+2024-03-23,Beograd,Hleb,96,1.38
+2024-03-23,Beograd,Mleko,39,3.17
+2024-03-23,Beograd,Sir,89,4.06
+2024-03-23,Beograd,Jaja,54,3.37
+2024-03-23,Beograd,Jogurt,21,1.19
+2024-03-23,Novi Sad,Hleb,65,3.93
+2024-03-23,Novi Sad,Mleko,22,2.01
+2024-03-23,Novi Sad,Sir,88,2.5
+2024-03-23,Novi Sad,Jaja,77,1.94
+2024-03-23,Novi Sad,Jogurt,37,2.65
+2024-03-23,Niš,Hleb,35,2.86
+2024-03-23,Niš,Mleko,35,1.88
+2024-03-23,Niš,Sir,93,2.11
+2024-03-23,Niš,Jaja,83,3.65
+2024-03-23,Niš,Jogurt,46,3.77
+2024-03-24,Beograd,Hleb,92,3.06
+2024-03-24,Beograd,Mleko,58,3.69
+2024-03-24,Beograd,Sir,83,2.92
+2024-03-24,Beograd,Jaja,47,2.27
+2024-03-24,Beograd,Jogurt,75,3.62
+2024-03-24,Novi Sad,Hleb,78,2.18
+2024-03-24,Novi Sad,Mleko,83,4.42
+2024-03-24,Novi Sad,Sir,11,4.26
+2024-03-24,Novi Sad,Jaja,46,3.95
+2024-03-24,Novi Sad,Jogurt,44,2.36
+2024-03-24,Niš,Hleb,95,4.33
+2024-03-24,Niš,Mleko,96,1.43
+2024-03-24,Niš,Sir,33,3.11
+2024-03-24,Niš,Jaja,63,4.18
+2024-03-24,Niš,Jogurt,28,3.13
+2024-03-25,Beograd,Hleb,44,2.14
+2024-03-25,Beograd,Mleko,56,1.12
+2024-03-25,Beograd,Sir,55,1.28
+2024-03-25,Beograd,Jaja,44,2.14
+2024-03-25,Beograd,Jogurt,51,2.7
+2024-03-25,Novi Sad,Hleb,79,1.44
+2024-03-25,Novi Sad,Mleko,90,1.52
+2024-03-25,Novi Sad,Sir,66,4.31
+2024-03-25,Novi Sad,Jaja,70,1.76
+2024-03-25,Novi Sad,Jogurt,64,3.6
+2024-03-25,Niš,Hleb,46,4.2
+2024-03-25,Niš,Mleko,36,2.67
+2024-03-25,Niš,Sir,40,2.11
+2024-03-25,Niš,Jaja,90,2.29
+2024-03-25,Niš,Jogurt,77,3.66
+2024-03-26,Beograd,Hleb,84,3.46
+2024-03-26,Beograd,Mleko,90,4.25
+2024-03-26,Beograd,Sir,68,1.11
+2024-03-26,Beograd,Jaja,40,1.05
+2024-03-26,Beograd,Jogurt,65,1.84
+2024-03-26,Novi Sad,Hleb,30,4.38
+2024-03-26,Novi Sad,Mleko,19,1.62
+2024-03-26,Novi Sad,Sir,17,4.28
+2024-03-26,Novi Sad,Jaja,69,1.03
+2024-03-26,Novi Sad,Jogurt,43,1.12
+2024-03-26,Niš,Hleb,25,4.19
+2024-03-26,Niš,Mleko,96,3.03
+2024-03-26,Niš,Sir,31,1.95
+2024-03-26,Niš,Jaja,36,4.07
+2024-03-26,Niš,Jogurt,35,2.21
+2024-03-27,Beograd,Hleb,78,2.02
+2024-03-27,Beograd,Mleko,39,4.03
+2024-03-27,Beograd,Sir,47,4.23
+2024-03-27,Beograd,Jaja,74,1.79
+2024-03-27,Beograd,Jogurt,99,3.18
+2024-03-27,Novi Sad,Hleb,52,3.17
+2024-03-27,Novi Sad,Mleko,81,2.29
+2024-03-27,Novi Sad,Sir,48,3.65
+2024-03-27,Novi Sad,Jaja,13,4.12
+2024-03-27,Novi Sad,Jogurt,86,2.61
+2024-03-27,Niš,Hleb,14,2.63
+2024-03-27,Niš,Mleko,29,2.84
+2024-03-27,Niš,Sir,43,2.19
+2024-03-27,Niš,Jaja,63,2.84
+2024-03-27,Niš,Jogurt,26,2.88
+2024-03-28,Beograd,Hleb,27,1.13
+2024-03-28,Beograd,Mleko,62,3.13
+2024-03-28,Beograd,Sir,88,2.58
+2024-03-28,Beograd,Jaja,25,3.38
+2024-03-28,Beograd,Jogurt,22,3.6
+2024-03-28,Novi Sad,Hleb,56,3.86
+2024-03-28,Novi Sad,Mleko,54,3.83
+2024-03-28,Novi Sad,Sir,63,1.3
+2024-03-28,Novi Sad,Jaja,13,4.44
+2024-03-28,Novi Sad,Jogurt,64,2.83
+2024-03-28,Niš,Hleb,43,2.55
+2024-03-28,Niš,Mleko,12,1.91
+2024-03-28,Niš,Sir,11,3.06
+2024-03-28,Niš,Jaja,34,2.22
+2024-03-28,Niš,Jogurt,33,2.74
+2024-03-29,Beograd,Hleb,23,2.46
+2024-03-29,Beograd,Mleko,15,3.51
+2024-03-29,Beograd,Sir,27,1.22
+2024-03-29,Beograd,Jaja,71,1.79
+2024-03-29,Beograd,Jogurt,49,2.09
+2024-03-29,Novi Sad,Hleb,41,2.3
+2024-03-29,Novi Sad,Mleko,82,4.43
+2024-03-29,Novi Sad,Sir,61,2.34
+2024-03-29,Novi Sad,Jaja,83,1.93
+2024-03-29,Novi Sad,Jogurt,58,1.94
+2024-03-29,Niš,Hleb,91,4.4
+2024-03-29,Niš,Mleko,81,4.43
+2024-03-29,Niš,Sir,66,1.74
+2024-03-29,Niš,Jaja,29,1.78
+2024-03-29,Niš,Jogurt,61,2.9
+2024-03-30,Beograd,Hleb,44,2.12
+2024-03-30,Beograd,Mleko,42,2.62
+2024-03-30,Beograd,Sir,54,1.13
+2024-03-30,Beograd,Jaja,96,1.08
+2024-03-30,Beograd,Jogurt,87,1.88
+2024-03-30,Novi Sad,Hleb,27,3.61
+2024-03-30,Novi Sad,Mleko,68,1.33
+2024-03-30,Novi Sad,Sir,49,1.04
+2024-03-30,Novi Sad,Jaja,11,1.87
+2024-03-30,Novi Sad,Jogurt,48,3.25
+2024-03-30,Niš,Hleb,22,1.51
+2024-03-30,Niš,Mleko,75,3.96
+2024-03-30,Niš,Sir,37,2.52
+2024-03-30,Niš,Jaja,91,1.81
+2024-03-30,Niš,Jogurt,50,2.54

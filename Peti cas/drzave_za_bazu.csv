@@ -1,0 +1,196 @@
+independent,status,area,borders,country_name,capital_city
+True,officially-assigned,56785.0,"['BEN', 'BFA', 'GHA']",Togo,Lomé
+True,officially-assigned,69700.0,"['ARM', 'AZE', 'RUS', 'TUR']",Georgia,Tbilisi
+True,officially-assigned,12189.0,,Vanuatu,Port Vila
+True,officially-assigned,199951.0,"['CHN', 'KAZ', 'TJK', 'UZB']",Kyrgyzstan,Bishkek
+True,officially-assigned,1267000.0,"['DZA', 'BEN', 'BFA', 'TCD', 'LBY', 'MLI', 'NGA']",Niger,Niamey
+True,officially-assigned,9706961.0,"['AFG', 'BTN', 'MMR', 'HKG', 'IND', 'KAZ', 'NPL', 'PRK', 'KGZ', 'LAO', 'MAC', 'MNG', 'PAK', 'RUS', 'TJK', 'VNM']",China,Beijing
+True,officially-assigned,26.0,,Tuvalu,Funafuti
+True,officially-assigned,1862.0,,Comoros,Moroni
+True,officially-assigned,51209.0,"['HRV', 'MNE', 'SRB']",Bosnia and Herzegovina,Sarajevo
+True,officially-assigned,765.0,,Bahrain,Manama
+True,officially-assigned,637657.0,"['DJI', 'ETH', 'KEN']",Somalia,Mogadishu
+True,officially-assigned,64559.0,"['BLR', 'EST', 'LTU', 'RUS']",Latvia,Riga
+True,officially-assigned,41850.0,"['BEL', 'DEU']",Netherlands,Amsterdam
+True,officially-assigned,30355.0,['ZAF'],Lesotho,Maseru
+True,officially-assigned,916445.0,"['BRA', 'COL', 'GUY']",Venezuela,Caracas
+True,officially-assigned,580367.0,"['ETH', 'SOM', 'SSD', 'TZA', 'UGA']",Kenya,Nairobi
+True,officially-assigned,783562.0,"['ARM', 'AZE', 'BGR', 'GEO', 'GRC', 'IRN', 'IRQ', 'SYR']",Turkey,Ankara
+True,officially-assigned,18272.0,,Fiji,Suva
+True,officially-assigned,5130.0,,Trinidad and Tobago,Port of Spain
+True,officially-assigned,112492.0,"['GTM', 'SLV', 'NIC']",Honduras,Tegucigalpa
+True,officially-assigned,23200.0,"['ERI', 'ETH', 'SOM']",Djibouti,Djibouti
+True,officially-assigned,17364.0,"['MOZ', 'ZAF']",Eswatini,Mbabane
+True,officially-assigned,143100.0,"['AFG', 'CHN', 'KGZ', 'UZB']",Tajikistan,Dushanbe
+True,officially-assigned,2149690.0,"['IRQ', 'JOR', 'KWT', 'OMN', 'QAT', 'ARE', 'YEM']",Saudi Arabia,Riyadh
+True,officially-assigned,270467.0,,New Zealand,Wellington
+True,officially-assigned,207600.0,"['LVA', 'LTU', 'POL', 'RUS', 'UKR']",Belarus,Minsk
+True,officially-assigned,10689.0,['SEN'],Gambia,Banjul
+True,officially-assigned,2344858.0,"['AGO', 'BDI', 'CAF', 'COG', 'RWA', 'SSD', 'TZA', 'UGA', 'ZMB']",DR Congo,Kinshasa
+True,officially-assigned,51100.0,"['NIC', 'PAN']",Costa Rica,San José
+True,officially-assigned,118484.0,"['MOZ', 'TZA', 'ZMB']",Malawi,Lilongwe
+True,officially-assigned,342000.0,"['AGO', 'CMR', 'CAF', 'COD', 'GAB']",Republic of the Congo,Brazzaville
+True,officially-assigned,309500.0,"['SAU', 'ARE', 'YEM']",Oman,Muscat
+True,officially-assigned,438317.0,"['IRN', 'JOR', 'KWT', 'SAU', 'SYR', 'TUR']",Iraq,Baghdad
+True,officially-assigned,196722.0,"['GMB', 'GIN', 'GNB', 'MLI', 'MRT']",Senegal,Dakar
+True,officially-assigned,10452.0,"['ISR', 'SYR']",Lebanon,Beirut
+True,officially-assigned,1246700.0,"['COG', 'COD', 'ZMB', 'NAM']",Angola,Luanda
+True,officially-assigned,1648195.0,"['AFG', 'ARM', 'AZE', 'IRQ', 'PAK', 'TUR', 'TKM']",Iran,Tehran
+True,officially-assigned,276841.0,"['COL', 'PER']",Ecuador,Quito
+True,officially-assigned,236800.0,"['MMR', 'KHM', 'CHN', 'THA', 'VNM']",Laos,Vientiane
+True,officially-assigned,65610.0,['IND'],Sri Lanka,Sri Jayawardenepura Kotte
+True,officially-assigned,964.0,,São Tomé and Príncipe,São Tomé
+True,officially-assigned,344.0,,Grenada,St. George's
+True,officially-assigned,245857.0,"['CIV', 'GNB', 'LBR', 'MLI', 'SEN', 'SLE']",Guinea,Conakry
+True,officially-assigned,75417.0,"['COL', 'CRI']",Panama,Panama City
+True,officially-assigned,527968.0,"['OMN', 'SAU']",Yemen,Sana'a
+True,officially-assigned,45227.0,"['LVA', 'RUS']",Estonia,Tallinn
+True,officially-assigned,214969.0,"['BRA', 'SUR', 'VEN']",Guyana,Georgetown
+True,officially-assigned,2586.0,"['BEL', 'FRA', 'DEU']",Luxembourg,Luxembourg
+True,officially-assigned,825615.0,"['AGO', 'BWA', 'ZAF', 'ZMB']",Namibia,Windhoek
+True,user-assigned,10908.0,"['ALB', 'MKD', 'MNE', 'SRB']",Kosovo,Pristina
+True,officially-assigned,1759540.0,"['DZA', 'TCD', 'EGY', 'NER', 'SDN', 'TUN']",Libya,Tripoli
+True,officially-assigned,676578.0,"['BGD', 'CHN', 'IND', 'LAO', 'THA']",Myanmar,Naypyidaw
+True,officially-assigned,20770.0,"['EGY', 'JOR', 'LBN', 'PSE', 'SYR']",Israel,Jerusalem
+True,officially-assigned,1240192.0,"['DZA', 'BFA', 'GIN', 'CIV', 'MRT', 'NER', 'SEN']",Mali,Bamako
+True,officially-assigned,2780400.0,"['BOL', 'BRA', 'CHL', 'PRY', 'URY']",Argentina,Buenos Aires
+True,officially-assigned,241550.0,"['COD', 'KEN', 'RWA', 'SSD', 'TZA']",Uganda,Kampala
+True,officially-assigned,330803.0,"['BRN', 'IDN', 'THA']",Malaysia,Kuala Lumpur
+True,officially-assigned,752612.0,"['AGO', 'BWA', 'COD', 'MWI', 'MOZ', 'NAM', 'TZA', 'ZWE']",Zambia,Lusaka
+True,officially-assigned,702.0,,Micronesia,Palikir
+True,officially-assigned,49037.0,"['AUT', 'CZE', 'HUN', 'POL', 'UKR']",Slovakia,Bratislava
+True,officially-assigned,27834.0,"['COD', 'RWA', 'TZA']",Burundi,Gitega
+True,officially-assigned,88361.0,"['BIH', 'BGR', 'HRV', 'HUN', 'UNK', 'MKD', 'MNE', 'ROU']",Serbia,Belgrade
+True,officially-assigned,488100.0,"['AFG', 'IRN', 'KAZ', 'UZB']",Turkmenistan,Ashgabat
+True,officially-assigned,1221037.0,"['BWA', 'LSO', 'MOZ', 'NAM', 'SWZ', 'ZWE']",South Africa,Pretoria
+True,officially-assigned,2724900.0,"['CHN', 'KGZ', 'RUS', 'TKM', 'UZB']",Kazakhstan,Astana
+True,officially-assigned,9984670.0,['USA'],Canada,Ottawa
+True,officially-assigned,312679.0,"['BLR', 'CZE', 'DEU', 'LTU', 'RUS', 'SVK', 'UKR']",Poland,Warsaw
+True,officially-assigned,61.0,['ITA'],San Marino,City of San Marino
+True,officially-assigned,11586.0,['SAU'],Qatar,Doha
+True,officially-assigned,56594.0,"['BIH', 'HUN', 'MNE', 'SRB', 'SVN']",Croatia,Zagreb
+True,officially-assigned,2040.0,,Mauritius,Port Louis
+True,officially-assigned,71740.0,"['GIN', 'LBR']",Sierra Leone,Freetown
+True,officially-assigned,261.0,,Saint Kitts and Nevis,Basseterre
+True,officially-assigned,103000.0,,Iceland,Reykjavik
+True,officially-assigned,17818.0,"['IRQ', 'SAU']",Kuwait,Kuwait City
+True,officially-assigned,475442.0,"['CAF', 'TCD', 'COG', 'GNQ', 'GAB', 'NGA']",Cameroon,Yaoundé
+True,officially-assigned,21041.0,"['GTM', 'HND']",El Salvador,San Salvador
+True,officially-assigned,109884.0,,Cuba,Havana
+True,officially-assigned,8515767.0,"['ARG', 'BOL', 'COL', 'GUF', 'GUY', 'PRY', 'PER', 'SUR', 'URY', 'VEN']",Brazil,Brasília
+True,officially-assigned,28896.0,,Solomon Islands,Honiara
+True,officially-assigned,131990.0,"['ALB', 'BGR', 'TUR', 'MKD']",Greece,Athens
+True,officially-assigned,323802.0,"['FIN', 'SWE', 'RUS']",Norway,Oslo
+True,officially-assigned,10991.0,,Jamaica,Kingston
+True,officially-assigned,945087.0,"['BDI', 'COD', 'KEN', 'MWI', 'MOZ', 'RWA', 'UGA', 'ZMB']",Tanzania,Dodoma
+True,officially-assigned,1098581.0,"['ARG', 'BRA', 'CHL', 'PRY', 'PER']",Bolivia,Sucre
+True,officially-assigned,9251.0,,Cyprus,Nicosia
+True,officially-assigned,1564110.0,"['CHN', 'RUS']",Mongolia,Ulan Bator
+True,officially-assigned,2.02,['FRA'],Monaco,Monaco
+True,officially-assigned,163610.0,"['DZA', 'LBY']",Tunisia,Tunis
+True,officially-assigned,185180.0,"['IRQ', 'ISR', 'JOR', 'LBN', 'TUR']",Syria,Damascus
+True,officially-assigned,756102.0,"['ARG', 'BOL', 'PER']",Chile,Santiago
+True,officially-assigned,86600.0,"['ARM', 'GEO', 'IRN', 'RUS', 'TUR']",Azerbaijan,Baku
+True,officially-assigned,551695.0,"['AND', 'BEL', 'DEU', 'ITA', 'LUX', 'MCO', 'ESP', 'CHE']",France,Paris
+True,officially-assigned,100210.0,['PRK'],South Korea,Seoul
+True,officially-assigned,238533.0,"['BFA', 'CIV', 'TGO']",Ghana,Accra
+True,officially-assigned,43094.0,['DEU'],Denmark,Copenhagen
+True,officially-assigned,468.0,"['FRA', 'ESP']",Andorra,Andorra la Vella
+True,officially-assigned,41284.0,"['AUT', 'FRA', 'ITA', 'LIE', 'DEU']",Switzerland,Bern
+True,officially-assigned,25713.0,"['ALB', 'BGR', 'GRC', 'UNK', 'SRB']",North Macedonia,Skopje
+True,officially-assigned,619745.0,"['CAF', 'COD', 'ETH', 'KEN', 'SDN', 'UGA']",South Sudan,Juba
+True,officially-assigned,27750.0,['DOM'],Haiti,Port-au-Prince
+True,officially-assigned,1285216.0,"['BOL', 'BRA', 'CHL', 'COL', 'ECU']",Peru,Lima
+True,officially-assigned,36125.0,"['GIN', 'SEN']",Guinea-Bissau,Bissau
+True,officially-assigned,78865.0,"['AUT', 'DEU', 'POL', 'SVK']",Czechia,Prague
+True,officially-assigned,92090.0,['ESP'],Portugal,Lisbon
+True,officially-assigned,267668.0,"['CMR', 'COG', 'GNQ']",Gabon,Libreville
+True,officially-assigned,1964375.0,"['BLZ', 'GTM', 'USA']",Mexico,Mexico City
+True,officially-assigned,301336.0,"['AUT', 'FRA', 'SMR', 'SVN', 'CHE', 'VAT']",Italy,Rome
+True,officially-assigned,338424.0,"['NOR', 'SWE', 'RUS']",Finland,Helsinki
+True,officially-assigned,390757.0,"['BWA', 'MOZ', 'ZAF', 'ZMB']",Zimbabwe,Harare
+True,officially-assigned,505992.0,"['AND', 'FRA', 'GIB', 'PRT', 'MAR']",Spain,Madrid
+True,officially-assigned,377930.0,,Japan,Tokyo
+True,officially-assigned,452.0,,Seychelles,Victoria
+True,officially-assigned,28748.0,"['MNE', 'GRC', 'MKD', 'UNK']",Albania,Tirana
+True,officially-assigned,33846.0,"['ROU', 'UKR']",Moldova,Chișinău
+True,officially-assigned,108889.0,"['BLZ', 'SLV', 'HND', 'MEX']",Guatemala,Guatemala City
+True,officially-assigned,357114.0,"['AUT', 'BEL', 'CZE', 'DNK', 'FRA', 'LUX', 'NLD', 'POL', 'CHE']",Germany,Berlin
+True,officially-assigned,110879.0,"['GRC', 'MKD', 'ROU', 'SRB', 'TUR']",Bulgaria,Sofia
+True,officially-assigned,406752.0,"['ARG', 'BOL', 'BRA']",Paraguay,Asunción
+True,officially-assigned,117600.0,"['DJI', 'ETH', 'SDN']",Eritrea,Asmara
+True,officially-assigned,1886068.0,"['CAF', 'TCD', 'EGY', 'ERI', 'ETH', 'LBY', 'SSD']",Sudan,Khartoum
+True,officially-assigned,28051.0,"['CMR', 'GAB']",Equatorial Guinea,Malabo
+True,officially-assigned,1141748.0,"['BRA', 'ECU', 'PAN', 'PER', 'VEN']",Colombia,Bogotá
+True,officially-assigned,923768.0,"['BEN', 'CMR', 'TCD', 'NER']",Nigeria,Abuja
+True,officially-assigned,13812.0,"['ALB', 'BIH', 'HRV', 'UNK', 'SRB']",Montenegro,Podgorica
+True,officially-assigned,147181.0,"['CHN', 'IND']",Nepal,Kathmandu
+True,officially-assigned,5765.0,['MYS'],Brunei,Bandar Seri Begawan
+True,officially-assigned,83871.0,"['CZE', 'DEU', 'HUN', 'ITA', 'LIE', 'SVK', 'SVN', 'CHE']",Austria,Vienna
+True,officially-assigned,13943.0,,Bahamas,Nassau
+True,officially-assigned,242900.0,['IRL'],United Kingdom,London
+True,officially-assigned,111369.0,"['GIN', 'CIV', 'SLE']",Liberia,Monrovia
+True,officially-assigned,622984.0,"['CMR', 'TCD', 'COD', 'COG', 'SSD', 'SDN']",Central African Republic,Bangui
+True,officially-assigned,2381741.0,"['TUN', 'LBY', 'NER', 'ESH', 'MRT', 'MLI', 'MAR']",Algeria,Algiers
+True,officially-assigned,616.0,,Saint Lucia,Castries
+True,officially-assigned,238391.0,"['BGR', 'HUN', 'MDA', 'SRB', 'UKR']",Romania,Bucharest
+True,officially-assigned,83600.0,"['OMN', 'SAU']",United Arab Emirates,Abu Dhabi
+True,officially-assigned,446550.0,"['DZA', 'ESH', 'ESP']",Morocco,Rabat
+True,officially-assigned,582000.0,"['NAM', 'ZAF', 'ZMB', 'ZWE']",Botswana,Gaborone
+True,officially-assigned,65300.0,"['BLR', 'LVA', 'POL', 'RUS']",Lithuania,Vilnius
+True,officially-assigned,4033.0,,Cape Verde,Praia
+True,officially-assigned,9372610.0,"['CAN', 'MEX']",United States,"Washington, D.C."
+True,officially-assigned,7692024.0,,Australia,Canberra
+True,officially-assigned,747.0,,Tonga,Nuku'alofa
+True,officially-assigned,652230.0,"['IRN', 'PAK', 'TKM', 'UZB', 'TJK', 'CHN']",Afghanistan,Kabul
+True,officially-assigned,21.0,,Nauru,Yaren
+True,officially-assigned,93028.0,"['AUT', 'HRV', 'ROU', 'SRB', 'SVK', 'SVN', 'UKR']",Hungary,Budapest
+True,officially-assigned,1030700.0,"['DZA', 'MLI', 'SEN', 'ESH']",Mauritania,Nouakchott
+True,officially-assigned,20273.0,"['AUT', 'HRV', 'ITA', 'HUN']",Slovenia,Ljubljana
+True,officially-assigned,1284000.0,"['CMR', 'CAF', 'LBY', 'NER', 'NGA', 'SDN']",Chad,N'Djamena
+True,officially-assigned,0.44,['ITA'],Vatican City,Vatican City
+True,officially-assigned,112622.0,"['BFA', 'NER', 'NGA', 'TGO']",Benin,Porto-Novo
+True,officially-assigned,710.0,,Singapore,Singapore
+True,officially-assigned,316.0,,Malta,Valletta
+True,officially-assigned,389.0,,Saint Vincent and the Grenadines,Kingstown
+True,officially-assigned,181.0,,Marshall Islands,Majuro
+True,officially-assigned,513120.0,"['MMR', 'KHM', 'LAO', 'MYS']",Thailand,Bangkok
+True,officially-assigned,160.0,"['AUT', 'CHE']",Liechtenstein,Vaduz
+True,officially-assigned,70273.0,['GBR'],Ireland,Dublin
+True,officially-assigned,300.0,,Maldives,Malé
+True,officially-assigned,331212.0,"['KHM', 'CHN', 'LAO']",Vietnam,Hanoi
+True,officially-assigned,29743.0,"['AZE', 'GEO', 'IRN', 'TUR']",Armenia,Yerevan
+True,officially-assigned,881912.0,"['AFG', 'CHN', 'IND', 'IRN']",Pakistan,Islamabad
+True,officially-assigned,322463.0,"['BFA', 'GHA', 'GIN', 'LBR', 'MLI']",Ivory Coast,Yamoussoukro
+True,officially-assigned,17098242.0,"['AZE', 'BLR', 'CHN', 'EST', 'FIN', 'GEO', 'KAZ', 'PRK', 'LVA', 'LTU', 'MNG', 'NOR', 'POL', 'UKR']",Russia,Moscow
+True,officially-assigned,14874.0,['IDN'],Timor-Leste,Dili
+True,officially-assigned,130373.0,"['CRI', 'HND']",Nicaragua,Managua
+True,officially-assigned,462840.0,['IDN'],Papua New Guinea,Port Moresby
+True,officially-assigned,1002450.0,"['ISR', 'LBY', 'PSE', 'SDN']",Egypt,Cairo
+True,officially-assigned,89342.0,"['IRQ', 'ISR', 'PSE', 'SAU', 'SYR']",Jordan,Amman
+True,officially-assigned,181034.0,"['ARG', 'BRA']",Uruguay,Montevideo
+True,officially-assigned,272967.0,"['BEN', 'CIV', 'GHA', 'MLI', 'NER', 'TGO']",Burkina Faso,Ouagadougou
+True,officially-assigned,181035.0,"['LAO', 'THA', 'VNM']",Cambodia,Phnom Penh
+True,officially-assigned,1104300.0,"['DJI', 'ERI', 'KEN', 'SOM', 'SSD', 'SDN']",Ethiopia,Addis Ababa
+True,officially-assigned,811.0,,Kiribati,South Tarawa
+True,officially-assigned,38394.0,"['CHN', 'IND']",Bhutan,Thimphu
+True,officially-assigned,48671.0,['HTI'],Dominican Republic,Santo Domingo
+True,officially-assigned,163820.0,"['BRA', 'GUF', 'GUY']",Suriname,Paramaribo
+True,officially-assigned,147570.0,"['MMR', 'IND']",Bangladesh,Dhaka
+True,officially-assigned,430.0,,Barbados,Bridgetown
+True,officially-assigned,120538.0,"['CHN', 'KOR', 'RUS']",North Korea,Pyongyang
+True,officially-assigned,30528.0,"['FRA', 'DEU', 'LUX', 'NLD']",Belgium,Brussels
+True,officially-assigned,459.0,,Palau,Ngerulmud
+True,officially-assigned,342353.0,,Philippines,Manila
+True,officially-assigned,3287590.0,"['BGD', 'BTN', 'MMR', 'CHN', 'NPL', 'PAK']",India,New Delhi
+True,officially-assigned,1904569.0,"['TLS', 'MYS', 'PNG']",Indonesia,Jakarta
+True,officially-assigned,751.0,,Dominica,Roseau
+True,officially-assigned,26338.0,"['BDI', 'COD', 'TZA', 'UGA']",Rwanda,Kigali
+True,officially-assigned,587041.0,,Madagascar,Antananarivo
+True,officially-assigned,2842.0,,Samoa,Apia
+True,officially-assigned,442.0,,Antigua and Barbuda,Saint John's
+True,officially-assigned,450295.0,"['FIN', 'NOR']",Sweden,Stockholm
+True,officially-assigned,801590.0,"['MWI', 'ZAF', 'SWZ', 'TZA', 'ZMB', 'ZWE']",Mozambique,Maputo
+True,officially-assigned,447400.0,"['AFG', 'KAZ', 'KGZ', 'TJK', 'TKM']",Uzbekistan,Tashkent
+True,officially-assigned,603500.0,"['BLR', 'HUN', 'MDA', 'POL', 'ROU', 'RUS', 'SVK']",Ukraine,Kyiv
+True,officially-assigned,22966.0,"['GTM', 'MEX']",Belize,Belmopan
